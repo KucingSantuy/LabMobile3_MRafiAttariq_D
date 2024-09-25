@@ -85,8 +85,8 @@ Aplikasi ini mendemonstrasikan alur dasar autentikasi, manajemen state sederhana
 
 # Screenshot
    - Login screen
-   <img src="" width=50% height=50%>
+   <img src="https://github.com/KucingSantuy/LabMobile3_MRafiAttariq_D/blob/main/login.png" width=50% height=50%>
    - Home screen
-   <img src="" width=50% height=50%>
+   <img src="https://github.com/KucingSantuy/LabMobile3_MRafiAttariq_D/blob/main/home.png" width=50% height=50%>
    - Side Menu
-   <img src="" width=50% height=50%>
+   <img src="https://github.com/KucingSantuy/LabMobile3_MRafiAttariq_D/blob/main/menu.png" width=50% height=50%>
