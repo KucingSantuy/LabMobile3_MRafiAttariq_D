@@ -84,3 +84,9 @@
 Aplikasi ini mendemonstrasikan alur dasar autentikasi, manajemen state sederhana, dan navigasi antar halaman dalam Flutter.
 
 # Screenshot
+   - Login screen
+   <img src="" width=50% height=50%>
+   - Home screen
+   <img src="" width=50% height=50%>
+   - Side Menu
+   <img src="" width=50% height=50%>
